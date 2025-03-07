@@ -90,3 +90,6 @@ yarn-error.log*
 !Dockerfile
 !README.md
 !LICENSE 
+
+outputs/
+uploads/
